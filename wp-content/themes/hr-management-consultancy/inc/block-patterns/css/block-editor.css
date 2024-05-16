@@ -1,0 +1,107 @@
+.hr-management-consultancy-banner .banner-content h1,
+.hr-management-consultancy-job-section .section-heading .wp-block-column h2,
+.hr-management-consultancy-job-section .popular-jobs h3 {
+  font-family: 'Nunito Sans', sans-serif;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.hr-management-consultancy-banner{
+  min-height: 600px;
+}
+.hr-management-consultancy-banner .banner-content p,
+.hr-management-consultancy-banner .banner-content .wp-block-buttons .wp-block-button__link,
+.hr-management-consultancy-job-section .section-heading .wp-block-column p,
+.hr-management-consultancy-job-section .popular-jobs .info-section p,
+.hr-management-consultancy-job-section p.browse-all,
+.hr-management-consultancy-job-section .popular-jobs .btn-section .wp-block-button__link {
+  font-family: 'Mulish', sans-serif;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.hr-management-consultancy-banner .banner-content h1:hover {
+  color: #21286A !important;
+}
+.hr-management-consultancy-banner .banner-content{
+  margin-left: -10% !important;
+}
+.hr-management-consultancy-banner .banner-content .wp-block-buttons .wp-block-button__link:hover,
+.hr-management-consultancy-job-section .popular-jobs .apply-btn .wp-block-button__link:hover {
+  background: #74CAF9 !important;
+  color: #000 !important;
+}
+.hr-management-consultancy-job-section .post-section {
+  margin-top: -12px;
+}
+.hr-management-consultancy-job-section .section-heading .wp-block-column p {
+  margin-top: 5px;
+}
+.hr-management-consultancy-job-section .popular-jobs {
+  position: relative;
+  border: 1px solid #B2B2B2;
+  border-radius: 10px;
+  padding: 20px 20px;
+}
+.hr-management-consultancy-job-section .popular-jobs img {
+  margin-top: 4px;
+  margin-left: -10px;
+}
+.hr-management-consultancy-job-section .post-section .popular-jobs .job-content {
+  gap: 10px;
+}
+.hr-management-consultancy-job-section .post-section .popular-jobs .job-content .content {
+  position: absolute;
+  left: 20%;
+}
+.hr-management-consultancy-job-section .post-section.wp-block-columns.is-layout-flex{
+  gap: 1em;
+}
+.hr-management-consultancy-job-section .popular-jobs .info-section {
+  position: absolute;
+  text-align: center;
+  gap: 0;
+  right: -13%;
+  left: 0;
+}
+.hr-management-consultancy-job-section .popular-jobs .info-section {
+  margin-top:10px ;
+}
+.hr-management-consultancy-job-section p.browse-all:after {
+  content: "\f105";
+  margin-left: 10px;
+  font-size: 20px;
+}
+.hr-management-consultancy-job-section .popular-jobs .info-section .marketing:before {
+  content: "\f0b1"; 
+}
+.hr-management-consultancy-job-section .popular-jobs .info-section .location:before {
+  content: "\f3c5";
+}
+.hr-management-consultancy-job-section .popular-jobs .info-section .price:before {
+  content: "\f3d1";
+}
+.hr-management-consultancy-job-section p.browse-all:after,
+.hr-management-consultancy-job-section .popular-jobs .info-section .marketing:before,
+.hr-management-consultancy-job-section .popular-jobs .info-section .location:before,
+.hr-management-consultancy-job-section .popular-jobs .info-section .price:before {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  margin-right: 8px;
+}
+.hr-management-consultancy-job-section .popular-jobs hr {
+  color: #c7c0c0;
+  margin: 8% 0 0px;
+}
+.hr-management-consultancy-job-section .popular-jobs .btn-section .full-time .wp-element-button {
+  background: rgb(116 202 249 /20%);
+  color: #74caf9 !important;
+}
+.hr-management-consultancy-job-section .popular-jobs .btn-section .urgent .wp-element-button {
+  background: rgb(255 164 230/ 20%);
+  color: #ffa4e6 !important; 
+}
+.hr-management-consultancy-job-section .popular-jobs .btn-section {
+  margin: 0;
+}
+.hr-management-consultancy-job-section .popular-jobs .btn-section .apply-btn {
+  margin-left: -8px;
+}
